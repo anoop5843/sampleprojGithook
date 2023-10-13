@@ -1,0 +1,1 @@
+A new file after chaning master to main while configuring
